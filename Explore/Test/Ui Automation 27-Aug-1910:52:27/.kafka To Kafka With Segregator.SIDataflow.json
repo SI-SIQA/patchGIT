@@ -1,0 +1,70 @@
+{
+  "objectInfo" : {
+    "id" : "6aXmAfj3sOneyiiHO7Qmwg",
+    "name" : "kafka To Kafka With Segregator",
+    "type" : "SIDataflow",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "45f7658c-f42d-4676-a248-95cd0d641b88"
+      },
+      "contextAttributes" : [ {
+        "name" : "parentId",
+        "value" : "Ui Automation/Ui Automation 27-Aug-1910:52:27"
+      }, {
+        "name" : "version",
+        "value" : "1"
+      } ],
+      "additionalInfo" : {
+        "description" : "SIUIAutomation_Kafka to SIUIAutomation_Kafka",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "hO5GyHWaS6BhxdDoTsCqGj",
+    "name" : "INsiqarh7402",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01003225000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "6fnpD94qcB9jW8c7xsyYQr",
+    "name" : "SIUIAutomation_Kafka",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100320B000000000006"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
