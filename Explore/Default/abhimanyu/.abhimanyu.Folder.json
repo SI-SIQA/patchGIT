@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "1FJMV3N0N0jllQ1BcBXDkQ",
+    "name" : "abhimanyu",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "checking folder checout",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
