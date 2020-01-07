@@ -16,10 +16,10 @@
         "value" : "6ld6TT6pdGZl024VhavVoF"
       }, {
         "name" : "version",
-        "value" : "2"
+        "value" : "3"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "editing the description",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
