@@ -16,37 +16,17 @@
         "value" : "6ld6TT6pdGZl024VhavVoF"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
-        "documentState" : "Undeployed"
+        "documentState" : "Deploying"
       }
     }
   },
   "dataFileExtension" : "dat",
   "objectRefs" : [ {
-    "id" : "az1ABxk1D4UjTjV88hkqKc",
-    "name" : "INsicos75qa01",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000C2500000000000X"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "9rnaUh3wrqyfKq6Nobmd45",
     "name" : "shilpa_SITail",
     "type" : "Connection",
@@ -83,6 +63,26 @@
         "description" : "test added",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "aeX3IDzsRL3czG5i370ymZ",
+    "name" : "AgentGroupLinux",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C2500000000000W"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     },
     "path" : "/SYS"
