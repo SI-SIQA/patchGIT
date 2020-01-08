@@ -16,10 +16,10 @@
         "value" : "1J2YMi1aiURi2nujrUB60f"
       }, {
         "name" : "version",
-        "value" : "2"
+        "value" : "3"
       } ],
       "additionalInfo" : {
-        "description" : "changing the description",
+        "description" : "changing the description changing the description second time",
         "contentType" : "Binary",
         "documentState" : "Running"
       }
