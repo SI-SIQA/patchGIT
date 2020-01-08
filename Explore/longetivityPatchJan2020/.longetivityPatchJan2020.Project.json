@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "1J2YMi1aiURi2nujrUB60f",
+    "name" : "longetivityPatchJan2020",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Don't touch this project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
