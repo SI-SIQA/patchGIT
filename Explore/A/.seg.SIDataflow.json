@@ -16,10 +16,10 @@
         "value" : "b4R8AcRlA0Il36cZfGo18E"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "changing something to test pull sattus",
         "contentType" : null,
         "documentState" : "Undeployed"
       }
