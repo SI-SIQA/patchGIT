@@ -80,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "editing the description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

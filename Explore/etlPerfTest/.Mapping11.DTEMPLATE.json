@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "9S3mG6yPaAJfbjElzASEwf",
-    "name" : "Mapping_perf1",
+    "id" : "2s6qwJ5xTx3cPluMzH3Bil",
+    "name" : "Mapping11",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C1700000000000E"
+        "repoHandle" : "01000C1700000000000R"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "editing the description",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "19UG57xYUnFkSVxFlEutkn",
-    "name" : "torapp1_S3",
+    "id" : "4pjByaMNvvmfOzPNzPuUCS",
+    "name" : "AnviCon",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,31 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C0B00000000003P"
+        "repoHandle" : "01000C0B000000000042"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "8sk467MwSYRh1jfJ5Mybc1",
-    "name" : "Conn_Vabs",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000C0B00000000003O"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Perf Test",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

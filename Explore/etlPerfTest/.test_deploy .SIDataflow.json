@@ -1,51 +1,34 @@
 {
   "objectInfo" : {
-    "id" : "5rBX7e0k5pxdqhH5XeEFeM",
-    "name" : "MappingTask1",
-    "type" : "MTT",
+    "id" : "ahoOgvmcNWtjsjApMazASP",
+    "name" : "test_deploy ",
+    "type" : "SIDataflow",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C0Z000000000009"
+        "repoHandle" : "cb814821-67b3-428c-a7de-466d00605203"
       },
       "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
+        "name" : "parentId",
+        "value" : "9uI3lpVQHoykHNvyzF0LIu"
+      }, {
+        "name" : "version",
+        "value" : "2"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "Warning"
       }
     }
   },
-  "dataFileExtension" : "zip",
+  "dataFileExtension" : "dat",
   "objectRefs" : [ {
-    "id" : "19Z6c0OqpsdhrFU5yKI1sR",
-    "name" : "nraj",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000C2500000000000V"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "aWFgS9F4bM7ihl5p19qgGU",
-    "name" : "mqtt",
+    "id" : "fAdcEyvsJSAcgyYIWNUSaW",
+    "name" : "anuj_kinesis",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +36,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C0B00000000001W"
+        "repoHandle" : "01000C0B00000000003Q"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,24 +47,44 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "4a4lo5FVUAShfVwCXRfMwt",
-    "name" : "Mapping3",
-    "type" : "DTEMPLATE",
+    "id" : "km9CugNIHelc0mW1SNZagj",
+    "name" : "ADLSGen2",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C17000000000009"
+        "repoHandle" : "01000C0B00000000003K"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "changing something to test Git status",
+        "description" : null,
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/etlPerfTest"
+    "path" : "/SYS"
+  }, {
+    "id" : "aeX3IDzsRL3czG5i370ymZ",
+    "name" : "AgentGroupLinux",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C2500000000000W"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }

@@ -1,74 +1,54 @@
 {
   "objectInfo" : {
-    "id" : "ahoOgvmcNWtjsjApMazASP",
-    "name" : "test_deploy ",
-    "type" : "SIDataflow",
+    "id" : "1QETTfA6ODwhBtgSmlaxCE",
+    "name" : "MappingTask3",
+    "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "cb814821-67b3-428c-a7de-466d00605203"
+        "repoHandle" : "01000C0Z00000000000L"
       },
       "contextAttributes" : [ {
-        "name" : "parentId",
-        "value" : "9Zq5gqsjxqIfICXE8nfKyu"
-      }, {
-        "name" : "version",
-        "value" : "1"
+        "name" : "id",
+        "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "Warning"
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
       }
     }
   },
-  "dataFileExtension" : "dat",
+  "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "fAdcEyvsJSAcgyYIWNUSaW",
-    "name" : "anuj_kinesis",
-    "type" : "Connection",
+    "id" : "2s6qwJ5xTx3cPluMzH3Bil",
+    "name" : "Mapping11",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C0B00000000003Q"
+        "repoHandle" : "01000C1700000000000R"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "",
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
-    "path" : "/SYS"
+    "path" : "/Explore/etlPerfTest"
   }, {
-    "id" : "km9CugNIHelc0mW1SNZagj",
-    "name" : "ADLSGen2",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000C0B00000000003K"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "aeX3IDzsRL3czG5i370ymZ",
-    "name" : "AgentGroupLinux",
+    "id" : "94POEVNzjsHddUOp2vgLst",
+    "name" : "AnvithaSecureAgent",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -76,13 +56,33 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000C2500000000000W"
+        "repoHandle" : "01000C25000000000013"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "4pjByaMNvvmfOzPNzPuUCS",
+    "name" : "AnviCon",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000C0B000000000042"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
