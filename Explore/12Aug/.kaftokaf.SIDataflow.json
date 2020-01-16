@@ -16,10 +16,10 @@
         "value" : "3vleA20cIAhfLSN0gcYSUx"
       }, {
         "name" : "version",
-        "value" : "3"
+        "value" : "4"
       } ],
       "additionalInfo" : {
-        "description" : "addding something",
+        "description" : "addding something chnaged the description",
         "contentType" : "Binary",
         "documentState" : "Running"
       }
@@ -48,7 +48,7 @@
     "path" : "/SYS"
   }, {
     "id" : "aeX3IDzsRL3czG5i370ymZ",
-    "name" : "INcrrtlinux02",
+    "name" : "AgentGroupLinux",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
